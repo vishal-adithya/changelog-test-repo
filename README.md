@@ -12,3 +12,5 @@ Test repo for ChangeLog Writer project
 # Fix2
 
 # Breaking
+
+# Chore
